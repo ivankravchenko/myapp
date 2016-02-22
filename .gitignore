@@ -1,2 +1,2 @@
-node_modules
-ecosystem.json
+/node_modules
+/deploy
